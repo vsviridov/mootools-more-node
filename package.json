@@ -1,10 +1,10 @@
 {
 	"name": "mootools-more",
-	"version": "1.3.1-2",
-	"description": "MooTools More 1.3.1.1 (Builder Hash: 82304b6c3ba35c9988250e5fc67479a2)",
+	"version": "1.4.0-1",
+	"description": "MooTools More 1.4.0.1 (Builder Hash: 82304b6c3ba35c9988250e5fc67479a2)",
 	"keywords": ["mootools", "mootools-more"],
 	"homepage": "http://github.com/vsviridov/mootools-more-node",
-	"main": "./lib/mootools-more-1.3.1.1.js",
+	"main": "./lib/mootools-more-1.4.0.1.js",
 	"author":
 	{
 		"name": "Vasili Sviridov",
@@ -18,7 +18,7 @@
 	},
 	"dependencies":
 	{
-		"mootools": "1.3.x"
+		"mootools": "1.4.x"
 	},
 	"engines":
 	{
